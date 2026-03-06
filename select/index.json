@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Spring Has Come",
+  "base_artist": "春野",
+  "createdAt": "2026-03-06T08:17:37.424931Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "縁 〜Spring has come at last",
+      "artist": "暁Records",
+      "has_synced": true,
+      "path": "select/01_縁_〜Spring_has_come_at_last_暁Records.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "縁 〜Spring has come at last",
+      "artist": "Stack",
+      "has_synced": true,
+      "path": "select/02_縁_〜Spring_has_come_at_last_Stack.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spring has come",
+      "artist": "CooRie",
+      "has_synced": false,
+      "path": "select/03_Spring_has_come_CooRie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Spring Has Come",
+      "artist": "Flower",
+      "has_synced": true,
+      "path": "select/04_Spring_Has_Come_Flower.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "縁 ～Spring has come at last",
+      "artist": "暁Records",
+      "has_synced": true,
+      "path": "select/05_縁_~Spring_has_come_at_last_暁Records.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Spring has come (with Yang Da-Il)",
+      "artist": "Kim Jong Kook",
+      "has_synced": true,
+      "path": "select/06_Spring_has_come_(with_Yang_Da-Il)_Kim_Jong_Kook.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Spring Has Come",
+      "artist": "rino; rino",
+      "has_synced": true,
+      "path": "select/07_Spring_Has_Come_rino;_rino.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Spring has come",
+      "artist": "rino",
+      "has_synced": true,
+      "path": "select/08_Spring_has_come_rino.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spring Has Come (Prod. by Yang Da Il)",
+      "artist": "Kim Jong Kook",
+      "has_synced": true,
+      "path": "select/09_Spring_Has_Come_(Prod._by_Yang_Da_Il)_Kim_Jong_Kook.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Spring Has Come",
+      "artist": "Hata Motohiro",
+      "has_synced": true,
+      "path": "select/10_Spring_Has_Come_Hata_Motohiro.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Spring Has Come",
+      "artist": "Haruno",
+      "has_synced": false,
+      "path": "select/11_Spring_Has_Come_Haruno.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Spring Has Come",
+      "artist": "春野",
+      "has_synced": false,
+      "path": "select/pl_01_Spring_Has_Come_春野.txt"
+    }
+  ]
+}
